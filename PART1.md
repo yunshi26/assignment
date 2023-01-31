@@ -10,42 +10,48 @@ Please provide the YouTube link to your [Video Demo](https://youtube.com).
 
 List all the features completed.
 
-1. Cool Feature #1
-2. Cool Feature #2
-3. *add more*
+1. Player gets to control Alien
+2. Game board
+3. Game characters (alien)
+4. Movement (alien)
+5. Game objects (arrow, health, pod, empty, trail, rock)
+6. Game controls (up, down, left, right, help, quit)
 
 ### To Do
 
 List all the features not yet done. Remove this section if there is no incomplete requirements.
 
-1. Cool Feature #1
-2. *add more*
+1. Game object (zombie)
+2. Attack (alien & zombie)
+3. Game character (attributes)
+4. Game control (arrow, save, load)
 
 ## Additional Features
 
-Describe the additional features that has been implemented.
+N/A
 
 ## Contributions
 
-List down the contribution of each group members.
+### Ng Yun Shi
 
-For example:
+1. Display game menu.
+2. Generated game board, game character(alien) and game objects.
+3. Alien movement.
+4. Game control (up, down, left, right).
 
-### Tony Stark
+### Chan Kar Kin
 
-1. Randomly generate game board.
-2. *add more*
+1. Display game menu.
+2. Generated game board, game character(alien) and game objects.
+3. Alien movement.
+4. Game control (help, quit).
 
-### Steve Rogers
-
-1. Zombie movement and attack behaviour.
-2. *add more*
-
-### Dr. Strange
-
-1. Implement all game objects.
-2. *add more*
 
 ## Problems Encountered & Solutions
 
-Describe the problems encountered and provide the solutions / plan for the solutions.
+1. Unable to display game board correctly - solution: check dimensions of rows & columns, get idea from lab 11 (tutorial).
+2. Unable to display Alien at center of the game board - solution: re-calculate the dimensions of rows and columns to set the location of alien.
+3. Alien is only displayed when the game board follows the default settings - solution: changed functions of alien display and movement.
+4. Unable to move alien correctly based on user command - solution: re-checked the functions for alien movement
+5. Unable to display zombies - plan to solution:  
+6. Save and load function not yet implemented - plan to solution: compile it together during part 2
