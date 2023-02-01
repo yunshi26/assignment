@@ -13,7 +13,7 @@ Provide instructions on how to compile your program, especially when it is non-t
 For example:
 
 ```
-g++ main.cpp folder1\code.cpp folder2\code.cpp ......
+g++ main.cpp 
 ```
 
 ## User Manual
