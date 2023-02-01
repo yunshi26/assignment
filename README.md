@@ -8,9 +8,7 @@ YouTube link to [Video Demo](https://youtube.com).
 
 ## Compilation Instructions
 
-Provide instructions on how to compile your program, especially when it is non-trivial.
-
-For example:
+Instructions on how to compile program.
 
 ```
 g++ main.cpp 
