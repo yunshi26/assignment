@@ -4,7 +4,7 @@
 // Lab: TT8L
 // Names: CHAN KAR KIN | NG YUN SHI
 // IDs: 1211102630 | 1211103311
-// Emails: 1211102630.student.mmu.edu.my | 1211103311@student.mmu.edu.my
+// Emails: 1211102630@student.mmu.edu.my | 1211103311@student.mmu.edu.my
 // Phones: 0169209773 | 0102799327
 // *********************************************************
 
