@@ -2,7 +2,7 @@
 
 ## Video Demo
 
-YouTube link to your [Video Demo](https://www.youtube.com/watch?v=JBfFP3LGfYs).
+YouTube link to your [Video Demo](https://youtube.com).
 
 ## Minimum Requirements
 
@@ -38,7 +38,7 @@ N/A
 2. Generated game board, game character(alien) and game objects.
 3. Alien movement.
 4. Game control (up, down, left, right).
-5. Documentation
+5. Documentation.
 
 ### Chan Kar Kin
 
@@ -46,7 +46,7 @@ N/A
 2. Generated game board, game character(alien) and game objects.
 3. Alien movement.
 4. Game control (help, quit).
-5. Documentation
+5. Documentation.
 
 
 ## Problems Encountered & Solutions
