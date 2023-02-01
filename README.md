@@ -2,6 +2,8 @@
 
 Alien vs Zombie is a game where the player controls the Alien to defeat a group of zombies. The player can choose to customize settings such as the game board dimensions and number of zombies. The player can also save a game into a file and load a game from a file.
 
+![Alt text](/alien.png)
+
 YouTube link to [Video Demo](https://youtube.com).
 
 ## Compilation Instructions
