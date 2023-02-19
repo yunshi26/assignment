@@ -23,7 +23,8 @@ List all the features completed.
 List all the features not yet done. Remove this section if there is no incomplete requirements.
 
 1. Reset trail left by Alien
-2. Game control (arrow)
+2. Game control (arrow, save, load)
+3. Zombie movement
 
 ## Additional Features
 
@@ -39,7 +40,7 @@ For example:
 
 1. Display game menu.
 2. Generated game board, game characters and game objects.
-3. Alien movement.
+3. Alien & zombie movement.
 4. Game control (up, down, left, right, save, load).
 5. Documentation.
 
@@ -47,10 +48,11 @@ For example:
 
 1. Display game menu.
 2. Generated game board, game characters and game objects.
-3. Alien movement.
-4. Game control (arrow, help, quit).
+3. Alien & zombie movement.
+4. Game control (arrow, help, quit, save).
 5. Attribute.
 6. Documentation.
 
 ## Problems Encountered & Solutions
 1. Unable to display zombie correctly - solution: check row & column number randomly generated are correct
+2. Unable to move zombie
