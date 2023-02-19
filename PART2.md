@@ -17,6 +17,7 @@ List all the features completed.
 5. Game objects
 6. Game controls
 7. Character attributes
+8. Zombie as numerical 
 
 ### To Do
 
@@ -57,4 +58,5 @@ For example:
 
 ## Problems Encountered & Solutions
 1. Unable to display zombie correctly - solution: check row & column number randomly generated are correct
-2. Unable to move zombie
+2. Unable to move zombie - solution : check the zombie move have generate correctly or not
+3. Arrow not working - Check the function of arrow is working correctly or not. 
