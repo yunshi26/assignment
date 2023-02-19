@@ -19,9 +19,9 @@ g++ main.cpp
 2. Enter 'y' to change the default game settings or enter 'n' to proceed with the default game settings.
 3. If 'y' is entered to change the game settings, you will have to enter the number of board rows, board columns, and zombie count. (Do remember that only odd numbers are accepted for board rows and columns, while zombie count cannot be 0)
 4. Next, a game board will be shown and you will have to enter a command to play the game. If any invalid commands are entered, you will have to re-enter the command to play the game.
-5. To view list of game commands, you can enter 'H'.
-6. To move the alien (up, down, left, right), you need to enter 'U', 'D', 'L', or 'R'.
-7. To quit the game, you need to enter 'Q'.
+5. To view list of game commands, you can enter 'help'.
+6. To move the alien (up, down, left, right), you need to enter 'up, 'down', 'left' or 'right'.
+7. To quit the game, you need to enter 'quit'.
 
 
 
