@@ -17,6 +17,7 @@ List all the features completed.
 5. Game objects
 6. Game controls
 7. Character attributes
+8. zombie as numerical
 
 ### To Do
 
@@ -33,9 +34,6 @@ N/A
 ## Contributions
 
 List down the contribution of each group members.
-
-For example:
-
 ### Ng Yun Shi
 
 1. Display game menu.
@@ -57,4 +55,5 @@ For example:
 
 ## Problems Encountered & Solutions
 1. Unable to display zombie correctly - solution: check row & column number randomly generated are correct
-2. Unable to move zombie
+2. Unable to move zombie - solution : check the zombie movement have been code correctly or not
+3. Unable to change the direction follow the arrow (alien) : Check the arrow function have code correctly or not.
