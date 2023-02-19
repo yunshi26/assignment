@@ -55,6 +55,7 @@ public:
   int getAlienAttack();
 
   bool executeComm(GameBoard &game_board, char command);
+  
 };
 
 GameBoard::GameBoard(int &dimX, int &dimY) { init(dimX, dimY); }
