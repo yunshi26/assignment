@@ -4,7 +4,7 @@ Alien vs Zombie is a game where the player controls the Alien to defeat a group 
 
 ![Alt text](https://github.com/chankarkin/assignment/blob/main/alien.jpg)
 
-YouTube link to [Video Demo](https://www.youtube.com/watch?v=JBfFP3LGfYs).
+YouTube link to [Video Demo](https://www.youtube.com/watch?v=lvpDf1j3JOY).
 
 ## Compilation Instructions
 
