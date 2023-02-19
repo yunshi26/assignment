@@ -42,16 +42,18 @@ For example:
 2. Generated game board, game characters and game objects.
 3. Alien & zombie movement.
 4. Game control (up, down, left, right, save, load).
-5. Documentation.
+5. Attribute.
+6. Documentation.
 
 ### Chan Kar Kin
 
 1. Display game menu.
 2. Generated game board, game characters and game objects.
 3. Alien & zombie movement.
-4. Game control (arrow, help, quit, save).
+4. Game control (arrow, help, quit).
 5. Attribute.
-6. Documentation.
+6. Alien movement display message.
+7. Documentation.
 
 ## Problems Encountered & Solutions
 1. Unable to display zombie correctly - solution: check row & column number randomly generated are correct
